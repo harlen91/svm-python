@@ -5,7 +5,7 @@ description = "Prediksi Diagnosa Kesehatan Menggunakan SVM"
 readme = "README.md"
 requires-python = ">=3.10"
 dependecies = [
-    "fastapi",
+    "fastapi[standard]",
     "pydantic",
     "joblib",
     "scikit-learn",
