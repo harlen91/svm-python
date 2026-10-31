@@ -1,5 +1,5 @@
 [project]
-name = "python-svm"
+name = "svm-python"
 version = "1.0.0"
 description = "Prediksi Diagnosa Kesehatan Menggunakan SVM"
 readme = "README.md"
