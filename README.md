@@ -1,4 +1,4 @@
-Aplikasi Deteksi Diagnosa Kesehatan Menggunakan SVM
+Aplikasi Prediksi Kelulusan Menggunakan SVM
 
 Library yang dibutuhkan : 
 1. FastAPI

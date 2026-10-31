@@ -1,7 +1,7 @@
 [project]
 name = "svm-python"
-version = "1.0.0"
-description = "Prediksi Diagnosa Kesehatan Menggunakan SVM"
+version = "0.1.0"
+description = "Prediksi Kelulusan Menggunakan SVM"
 readme = "README.md"
 requires-python = ">=3.10"
 dependecies = [
@@ -9,7 +9,7 @@ dependecies = [
     "pydantic",
     "joblib",
     "scikit-learn",
-    "numpy"
+    "numpy",
 ]
 
 [build-system]
